@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountProcessor</members>
+        <members>AccountProcessorTest</members>
+        <members>DeleteDemoApex10</members>
+        <members>DeleteDemoApex10_Raj</members>
+        <members>DeleteQATesting12</members>
+        <members>DeleteQATesting_PradeepOpsera</members>
+        <members>DeleteSalesforceTestingQA</members>
+        <members>EmailUtils</members>
+        <members>TemperatureConverter</members>
+        <members>TemperatureConverterTest</members>
+        <members>UpdateContactAddresses</members>
+        <members>UpdateOpportunityTCV</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Case.Case Rule One</members>
+        <members>Case.Case Rule One blah blah</members>
+        <members>Case.Case Rule One blah blah bl</members>
+        <members>Case.Case Rule One blah blah blah</members>
+        <members>Case.Case Rule One blah blah blah12</members>
+        <members>Case.Case Rule Two</members>
+        <members>Lead.New Rule</members>
+        <members>Lead.SDR Leads %28Ben%29</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <version>58.0</version>
+</Package>
