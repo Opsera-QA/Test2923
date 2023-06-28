@@ -14,8 +14,7 @@ private class TemperatureConverterTest {
     } 
     @isTest static void testNegativeTemp() {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(-10);
-       // System.assertEquals(-23.33,celsius);
-    }
+          }
     @isTest static void testNormalTemp(){
         Decimal fahrenheit = TemperatureConverter.CelsiusToFahrenheit(30);
        // System.assertEquals(86,fahrenheit);
@@ -23,5 +22,6 @@ private class TemperatureConverterTest {
     @isTest static void testCeltoKevin(){
         Decimal cel = TemperatureConverter.CelsiusToKelvin(40);
         //System.assertEquals(313.15,cel);
+          //System.assertEquals(313.15,cel);
     }
 }
