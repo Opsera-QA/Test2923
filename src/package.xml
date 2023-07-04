@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountProcessor</members>
+        <members>AccountProcessorTest</members>
+        <members>DeleteDemoApex10</members>
+        <members>DeleteDemoApex10_Raj</members>
+        <members>DeleteQATesting12</members>
+        <members>DeleteQATesting_PradeepOpsera</members>
+        <members>DeleteSalesforceTestingQA</members>
+        <members>EmailUtils</members>
+        <members>TemperatureConverter</members>
+        <members>TemperatureConverterTest</members>
+        <members>UpdateContactAddresses</members>
+        <members>UpdateOpportunityTCV</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Case.Case Rule One</members>
+        <members>Case.Case Rule One blah blah</members>
+        <members>Case.Case Rule One blah blah bl</members>
+        <members>Case.Case Rule One blah blah blah</members>
+        <members>Case.Case Rule One blah blah blah12</members>
+        <members>Case.Case Rule Two</members>
+        <members>Lead.New Rule</members>
+        <members>Lead.SDR Leads %28Ben%29</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>dc3AnalyticsVF</members>
+        <members>dc3ChartVF</members>
+        <members>dc3DuplicateResult</members>
+        <members>dc3Embed</members>
+        <members>dc3EmbedWrapper</members>
+        <members>dc3EventEmbedSearchResult</members>
+        <members>dc3EventRefreshDuplicateResult</members>
+        <members>dc3FormLayoutItem</members>
+        <members>dc3InputWrapper</members>
+        <members>dc3JobDetailVF</members>
+        <members>dc3JobOverallResult</members>
+        <members>dc3JobOverallResultLegacy</members>
+        <members>dc3JobOverviewVF</members>
+        <members>dc3Live</members>
+        <members>dc3LiveVF</members>
+        <members>dc3ManualConvert</members>
+        <members>dc3MergePage</members>
+        <members>dc3MergeRulev2PageVF</members>
+        <members>dc3ModalVF</members>
+        <members>dc3Name</members>
+        <members>dc3RecordForm</members>
+        <members>dc3RecordFormByUrl</members>
+        <members>dc3SearchVF</members>
+        <members>dc3SetupHomeVF</members>
+        <members>dc3SetupSettingVF</members>
+        <members>dc3Share</members>
+        <members>dc3ShareVF</members>
+        <members>dc3UtilDynamicField</members>
+        <members>dc3UtilIfContains</members>
+        <members>dc3UtilIfNotContains</members>
+        <members>dc3UtilOpenConvert</members>
+        <members>dc3UtilOpenMerge</members>
+        <members>dc3UtilOpenRecord</members>
+        <members>dc3UtilSobjectLookup</members>
+        <members>dc3telemetryClientAura</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>58.0</version>
+</Package>
