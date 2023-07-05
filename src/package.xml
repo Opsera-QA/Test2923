@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>dupcheck__dc3ModalVF</members>
+    <members>dupcheck__dc3UtilSobjectLookup</members>
+    <members>dupcheck__dc3Live</members>
+    <members>dupcheck__dc3RecordFormByUrl</members>
+    <members>dupcheck__dc3Share</members>
+    <members>dupcheck__dc3SetupHomeVF</members>
+    <members>dupcheck__dc3JobOverviewVF</members>
+    <members>dupcheck__dc3SetupSettingVF</members>
+    <members>dupcheck__dc3ShareVF</members>
+    <members>dupcheck__dc3ManualConvert</members>
+    <members>dupcheck__dc3Name</members>
+    <members>dupcheck__dc3SearchVF</members>
+    <members>dupcheck__dc3UtilIfContains</members>
+    <members>dupcheck__dc3telemetryClientAura</members>
+    <members>dupcheck__dc3UtilIfNotContains</members>
+    <members>dupcheck__dc3MergeRulev2PageVF</members>
+    <members>dupcheck__dc3AnalyticsVF</members>
+    <members>dupcheck__dc3LiveVF</members>
+    <members>dupcheck__dc3UtilDynamicField</members>
+    <members>dupcheck__dc3UtilOpenMerge</members>
+    <members>dupcheck__dc3UtilOpenRecord</members>
+    <members>dupcheck__dc3RecordForm</members>
+    <members>dupcheck__dc3UtilOpenConvert</members>
+  </types>
+  <version>56.0</version>
+</Package>
