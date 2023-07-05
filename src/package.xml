@@ -26,5 +26,29 @@
     <members>dupcheck__dc3RecordForm</members>
     <members>dupcheck__dc3UtilOpenConvert</members>
   </types>
+  <types>
+    <name>ApexClass</name>
+    <members>DeleteSalesforceTestingQA</members>
+    <members>TemperatureConverterTest</members>
+    <members>AccountProcessorTest</members>
+    <members>UpdateOpportunityTCV</members>
+    <members>TemperatureConverter</members>
+    <members>UpdateContactAddresses</members>
+    <members>DeleteQATesting_PradeepOpsera</members>
+    <members>DeleteDemoApex10_Raj</members>
+    <members>EmailUtils</members>
+    <members>AccountProcessor</members>
+    <members>DeleteDemoApex10</members>
+  </types>
+  <types>
+    <name>ApexPage</name>
+    <members>dupcheck__dc3Setup</members>
+    <members>AccountTestPage</members>
+  </types>
+  <types>
+    <name>AppMenu</name>
+    <members>AppSwitcher</members>
+    <members>Salesforce1</members>
+  </types>
   <version>56.0</version>
 </Package>
