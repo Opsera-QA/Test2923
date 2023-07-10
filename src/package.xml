@@ -2,6 +2,18 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>AuraDefinitionBundle</name>
+    <members>dupcheck__dc3JobOverallResult</members>
+    <members>dupcheck__dc3JobOverallResultLegacy</members>
+    <members>dupcheck__dc3EmbedWrapper</members>
+    <members>dupcheck__dc3FormLayoutItem</members>
+    <members>dupcheck__dc3EventRefreshDuplicateResult</members>
+    <members>dupcheck__dc3JobDetailVF</members>
+    <members>dupcheck__dc3ChartVF</members>
+    <members>dupcheck__dc3EventEmbedSearchResult</members>
+    <members>dupcheck__dc3DuplicateResult</members>
+    <members>dupcheck__dc3Embed</members>
+    <members>dupcheck__dc3InputWrapper</members>
+    <members>dupcheck__dc3MergePage</members>
     <members>dupcheck__dc3ModalVF</members>
     <members>dupcheck__dc3UtilSobjectLookup</members>
     <members>dupcheck__dc3Live</members>
@@ -28,6 +40,8 @@
   </types>
   <types>
     <name>ApexClass</name>
+    <members>BoxUser</members>
+    <members>DeleteQATesting12</members>
     <members>DeleteSalesforceTestingQA</members>
     <members>TemperatureConverterTest</members>
     <members>AccountProcessorTest</members>
