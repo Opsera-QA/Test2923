@@ -1,11 +1,11 @@
 @isTest
-public class DeleteDemoApex10 {
+public class DeleteQATesting_Opsera1234 {
 private Integer num;
     
     @isTest
    public static void helloMethod() {
 
-        System.debug('Change Hello DemoApex11 Basic Pipeline testing TEST 12/07/2023 azure Webhook123');
+        System.debug('Change Hello QA Testing Basic Pipeline testing UAT Github webhook 14/03/2023 PR Approved');
     
 
     }
