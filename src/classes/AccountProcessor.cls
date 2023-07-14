@@ -12,7 +12,7 @@ public class AccountProcessor {
             
         }
         if(!accountList.isEmpty())
-        system.debug('Pridnt Acccount Lisssst'+accountList);    
+        system.debug('Pridnft Acccount Lisssst'+accountList);    
         update accountList ;
         //Validate changes
     
