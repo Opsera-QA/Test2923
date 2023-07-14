@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>ApexClass</name>
-    <members>DeleteQATesting_PradeepOpsera</members>
     <members>DeleteDemoApex10</members>
+    <members>DeleteQATesting_PradeepOpsera</members>
   </types>
 <version>58.0</version></Package>
