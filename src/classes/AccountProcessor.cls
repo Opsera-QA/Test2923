@@ -12,7 +12,7 @@ public class AccountProcessor {
             
         }
         if(!accountList.isEmpty())
-        system.debug('Print Account List'+accountList);    
+        system.debug('Prints Account List'+accountList);    
         update accountList ;
         //Validate changes
     
