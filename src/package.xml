@@ -245,6 +245,11 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AccountTestPage</members>
+        <members>dupcheck__dc3Setup</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
@@ -264,6 +269,10 @@
         <members>Case</members>
         <members>Lead</members>
         <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>CPQ Integration User</members>
+        <name>Profile</name>
     </types>
     <version>54.0</version>
 </Package>
