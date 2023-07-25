@@ -2,7 +2,7 @@
 <AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <assignmentRule>
         <fullName>New Rule</fullName>
-        <active>false</active>
+        <active>true</active>
         <ruleEntry>
             <assignedTo>punitha.kariappa@opsera.io</assignedTo>
             <assignedToType>User</assignedToType>
