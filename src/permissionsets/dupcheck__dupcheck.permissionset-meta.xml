@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+<PermissionSet>
     <applicationVisibilities>
         <application>dupcheck__dc3App</application>
+        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>dupcheck__dc3App_Lightning</application>
+        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
@@ -2127,7 +2129,7 @@
     </objectPermissions>
     <pageAccesses>
         <apexPage>dupcheck__dc3Audit</apexPage>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </pageAccesses>
     <pageAccesses>
         <apexPage>dupcheck__dc3Batch</apexPage>
@@ -2135,7 +2137,7 @@
     </pageAccesses>
     <pageAccesses>
         <apexPage>dupcheck__dc3BatchDetail</apexPage>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </pageAccesses>
     <pageAccesses>
         <apexPage>dupcheck__dc3BatchExport</apexPage>
