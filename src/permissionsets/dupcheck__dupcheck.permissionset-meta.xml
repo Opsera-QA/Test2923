@@ -2129,7 +2129,7 @@
     </objectPermissions>
     <pageAccesses>
         <apexPage>dupcheck__dc3Audit</apexPage>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
         <apexPage>dupcheck__dc3Batch</apexPage>
@@ -2137,7 +2137,7 @@
     </pageAccesses>
     <pageAccesses>
         <apexPage>dupcheck__dc3BatchDetail</apexPage>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
         <apexPage>dupcheck__dc3BatchExport</apexPage>
