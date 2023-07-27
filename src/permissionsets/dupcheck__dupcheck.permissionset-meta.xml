@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PermissionSet>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>dupcheck__dc3App</application>
-        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>dupcheck__dc3App_Lightning</application>
-        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
