@@ -2265,7 +2265,7 @@
     </pageAccesses>
     <tabSettings>
         <tab>dupcheck__dc3JobDetail</tab>
-        <visibility>Visible</visibility>
+        <visibility>Available</visibility>
     </tabSettings>
     <tabSettings>
         <tab>dupcheck__dc3JobOverallResults</tab>
