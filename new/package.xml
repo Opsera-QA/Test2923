@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>ApexClass</name>
+        <members>DeleteQATesting12</members>
+        <members>AccountProcessorTest</members>
+        <members>DeleteDemoApex10_Raj</members>
+        <members>DeleteDemoApex10</members>
+        <members>UpdateOpportunityTCV</members>
+        <members>TemperatureConverter</members>
+        <members>EmailUtils</members>
+        <members>DeleteQATesting_PradeepOpsera</members>
+        <members>TemperatureConverterTest</members>
+        <members>AccountProcessor</members>
+        <members>DeleteSalesforceTestingQA</members>
+        <members>UpdateContactAddresses</members>
+    </types>
+    <types>
+        <name>PermissionSet</name>
+        <members>force__ActivitiesWaveAdmin</members>
+        <members>force__C2CHeadlessCMSAccessPermSet</members>
+        <members>dupcheck__dupcheck</members>
+        <members>force__ApexGuruStandardPermSet</members>
+        <members>force__CRMUserPsl</members>
+    </types>
+    <version/>
+</Package>
+
