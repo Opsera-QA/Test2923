@@ -7,6 +7,6 @@ private class AccountProcessorTest {
     }
     
     public static testMethod void testNewMethod() {
-        System.debug('Change Hello DemoApex10 testing 1234 Basic');
+        //System.debug('Change Hello DemoApex10 testing 1234 Basic');
     }
 }
