@@ -3,7 +3,7 @@
     <assignmentRule>
         <fullName>New Rule</fullName>
         <active>false</active>
-        <ruleEntry>
+        <ruleEntry> 
             <assignedTo>punitha.kariappa@opsera.io</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
